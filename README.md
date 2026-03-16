@@ -188,8 +188,7 @@ Simulation confirms:
 
 ## Author
 
-Lucky
-Digital Design / VLSI Enthusiast
+Likhitha Reddy. M
 
 Focus Areas:
 
